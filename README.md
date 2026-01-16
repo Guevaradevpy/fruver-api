@@ -1,4 +1,4 @@
-# 🥑 Fruver API
+# 🥑 Fruver Management API
 
 **Fruver API** is a **RESTful API** designed to manage **inventory control, product flow, and financial tracking** for businesses that handle stock and product dispatch.
 
