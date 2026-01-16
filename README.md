@@ -52,15 +52,13 @@ Detailed architectural documentation will be added in future versions as the pro
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" alt="SQLAlchemy" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jsonwebtokens.svg" alt="JWT" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pydantic.svg" alt="Pydantic" width="40" height="40"/>
-</p>
- 
+**Tech Stack**
+- Python
+- FastAPI
+- MySQL
+- SQLAlchemy
+- JWT Authentication
+- Pydantic Validatio
 
 ---
 
